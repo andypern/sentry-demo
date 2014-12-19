@@ -96,7 +96,7 @@
 
     <property>
         <name>sentry.hive.server</name>
-        <value>HS2</value>
+        <value>mydbserver</value>
         <description> Deprecated name: hive.sentry.server.  Defaut: HS2.  Hive Server2 Server identifier like "server1"</description>
     </property>
 
