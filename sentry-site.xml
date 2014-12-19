@@ -84,34 +84,10 @@
         <name>sentry.hive.testing.mode</name>
         <value>true</value>
     </property>
-	
+
     <property>
         <name>sentry.service.admin.group</name>
         <value>mapr</value>
     </property>
-
-	
-
-    <property>
-        <name>sentry.store.jdbc.url</name>
-        <value>jdbc:mysql://localhost:3306/sentry_store</value>
-    </property>
-
-    <property>
-        <name>sentry.store.jdbc.driver</name>
-        <value>com.mysql.jdbc.Driver</value>
-    </property>
-
-    <property>
-        <name>sentry.store.jdbc.user</name>
-        <value>sentry</value>
-    </property>
-
-    <property>
-        <name>sentry.store.jdbc.password</name>
-        <value>sentry</value>
-    </property>
-<!-- for DB rule storage
- -->
 
 </configuration>
